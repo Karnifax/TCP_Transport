@@ -3,4 +3,4 @@
 class TCPClient:
 
     def __init__(self):
-        pass
+        print("client")
